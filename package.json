@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/codewise/xmas-2022-typescript-task.git"
+        "url": "git+https://github.com/MarekLabuz/xmas-2022-typescript-task.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/codewise/xmas-2022-typescript-task/issues"
+        "url": "https://github.com/MarekLabuz/xmas-2022-typescript-task/issues"
     },
-    "homepage": "https://github.com/codewise/xmas-2022-typescript-task#readme",
+    "homepage": "https://github.com/MarekLabuz/xmas-2022-typescript-task#readme",
     "devDependencies": {
         "@jest/globals": "^29.3.1",
         "@types/node": "^18.11.9",
